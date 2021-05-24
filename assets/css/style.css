@@ -1,13 +1,4 @@
-/**
-* Template Name: Flexor - v4.1.0
-* Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #313030;
@@ -2114,7 +2105,7 @@ section {
 #footer {
   color: #313030;
   font-size: 14px;
-  background: #fff;
+  background: rgb(206, 203, 203);
 }
 
 #footer .footer-top {
@@ -2203,7 +2194,7 @@ section {
 
 #footer .footer-newsletter form {
   margin-top: 30px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   padding: 6px 10px;
   position: relative;
   border-radius: 50px;
